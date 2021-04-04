@@ -1,5 +1,5 @@
 # compatabilitypredictor
-Used this jar file: http://www.java2s.com/Code/Jar/j/Downloadjsonsimple111jar.htm to work with JSON in Java.
+Used this jar file: http://www.java2s.com/Code/Jar/j/Downloadjsonsimple111jar.htm to work with JSON in Java along with org.json &  com.google.code.gson libraries in Maven.
 
 The files to look at are: output.java and compatabilityPredictor.java. I have an input.json file (imported) and an output.json file (created from a file).
 You can ignore all the other files, I was using them to get familiar with JSON.
