@@ -1,5 +1,5 @@
 ## compatabilitypredictor
-#**Changed Repository -> (using javascript instead) https://github.com/justinhwong/CompPredictor.**
+#**Changed Repository -> (using javascript instead) https://github.com/justinhwong/CompPredictor.**#
 
 
 
